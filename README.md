@@ -1,5 +1,4 @@
 # 💜 LeafScore
-* Versões testadas: **1.8**.
 
 ## Dependencia
 É necessário o plugin [LeafCore](https://github.com/leafcodebr/LeafCore/releases/tag/Downloads) para o funcionamento.
@@ -21,12 +20,13 @@ Scoreboard:
     - "&5&lLEAF"
   Linhas:
     - ""
-    - "&fSeu Clan: &cNenhum"
+    - "&fCargo: %leaftags_player_maxtag_preset%"
+    - "&fTag atual: %leaftags_player_tag_preset%"
     - ""
     - "&fConexão: &a%player_ping%ms"
-    - "&fPlayers: &a%server_online%"
+    - "&fJogadores: &a%server_online%"
     - ""
-    - "&7%leaf_site%"
+    - "&7seuservidor.com"
 # Block-Mundos: Caso o jogador esteja em algum destes mundos, ele não receberá a scoreboard.
 Block-Mundos:
   - "nome_do_mundo"
