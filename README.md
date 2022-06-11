@@ -8,7 +8,7 @@
 ## Configuração
 ```yml
 # Titulo_update: Tempo em (meio_segundo, segundo ou minutos) para que o titulo atualize para o próximo da lista (ANIMAÇÃO).
-Titulo_update: 3
+Titulo_update: 1
 # Update_type: Tipo de tempo que será usado para o delay em 'Titulo_update'
 # Disponíveis: MEIO_SEGUNDO, SEGUNDOS, MINUTOS
 Update_type: MEIO_SEGUNDO
