@@ -1,2 +1,2 @@
 # 💜 LeafScore
-Clique [aqui](https://www.spigotmc.org/resources/leafscore.102796/) para ver a Wiki deste plugin.
+Clique [aqui](https://www.spigotmc.org/resources/leafscore.102842/) para ver a Wiki deste plugin.
