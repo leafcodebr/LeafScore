@@ -1,0 +1,33 @@
+# Titulo_update: Tempo em (meio_segundo, segundo ou minutos) para que o titulo atualize para o próximo da lista (ANIMAÇÃO).
+Titulo_update: 1
+# Update_type: Tipo de tempo que será usado para o delay em 'Titulo_update'
+# Disponíveis: MEIO_SEGUNDO, SEGUNDOS, MINUTOS
+Update_type: MEIO_SEGUNDO
+Scoreboard:
+  # Titulo: Caso haja mais de um nesta lista, fará um titulo animado.
+  Titulo:
+    - "&5&lLEAF"
+    - "&f&lL&5&lEAF"
+    - "&f&lLE&5&lAF"
+    - "&f&lLEA&5&lF"
+    - "&f&lLEAF"
+    - "&k&lL&f&lEAF"
+    - "&k&lLE&f&lAF"
+    - "&k&lLEA&f&lF"
+    - "&k&lLEAF"
+    - "&5&lCODE"
+    - "&f&lCODE"
+    - "&5&lCODE"
+    - "&f&lCODE"
+  Linhas:
+    - ""
+    - "&fRank: %leaftags_player_maxtag_preset%"
+    - "&fLobby: &7#1"
+    - ""
+    - "&fMoedas: &6%vault_eco_balance_formatted%"
+    - "&fJogadores: &a%bungee_total%"
+    - ""
+    - "&eredeserver.com"
+# Block-Mundos: Caso o jogador esteja em algum destes mundos, ele não receberá a scoreboard.
+Block-Mundos:
+  - "nome_do_mundo"
