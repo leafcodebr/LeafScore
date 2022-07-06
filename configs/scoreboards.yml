@@ -1,0 +1,37 @@
+Scoreboards:
+  Plotme:
+    Mundos:
+      - plotme
+      - plotme_world
+    Titulo:
+      - '&6&lTERRENOS'
+    Linhas:
+      - ''
+      - "&fAdquira um terreno usando:"
+      - "&a/plot auto"
+      - ""
+      - "&fDúvidas?"
+      - "&a/plot help"
+      - ''
+      - '&fJogadores: &a%server_online%'
+      - ''
+      - '&eredeserver.com'
+  Minerar:
+    Mundos:
+      - mina
+      - mina_pvp
+    Titulo:
+      - '&3&lMINA'
+    Linhas:
+      - ''
+      - "&fCargo: %leaftags_player_maxtag_preset%"
+      - "&fRank: &8Iniciante"
+      - ""
+      - "&eInformações:"
+      - "• &fBlocos minerados: &335k"
+      - '• &fQuantia adquirida: &a$135K'
+      - ''
+      - "&fMoedas: &6%vault_eco_balance_formatted%"
+      - "&fCash: &a%vault_eco_balance_formatted%"
+      - ''
+      - '&eredeserver.com'
