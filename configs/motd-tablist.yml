@@ -1,0 +1,24 @@
+Motd:
+  enable: false
+  # update: Tempo em segundos para que o motd seja atualizado.
+  update: 20
+  motds:
+    - "&a&lSERVIDOR &7- &fMensagem #0"
+    - "&a&lSERVIDOR &7- &fMensagem #1"
+    - "&a&lSERVIDOR &7- &fMensagem #2"
+Tablist:
+  enable: false
+  # update: Tempo em segundos para que a tablist seja atualizada.
+  update: 20
+  header:
+    - ""
+    - "%leaf_prefix%"
+    - ""
+    - "    &7Seu cargo: %leaftags_player_maxtag_preset%"
+    - "    &7Sua conexão: &a%player_ping%ms   "
+    - ""
+  footer:
+    - ""
+    - "&7Nossa loja: &b%leaf_site%"
+    - "&7Nosso discord: &9%leaf_discord%"
+    - ""
