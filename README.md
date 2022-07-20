@@ -12,9 +12,6 @@ Você pode encontrar o plugin pronto para baixar [**aqui**](https://github.com/l
 
 O plugin possui as configurações bem fáceis e completas. Você pode ver as configurações padrões [clicando aqui](https://github.com/leafcodebr/LeafScore/tree/main/configs).
 
-## Informações
-- Este plugin também tem funcionalidade de **Motd** e **TabList** porém sem compatibilidade com BungeeCord.
-
 ## Dependências
 
 - [LeafCore](https://github.com/leafcodebr/LeafCore/releases) - necessário para o funcionamento de todos os plugins Leaf.
