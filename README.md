@@ -1,4 +1,4 @@
-# LeafTags
+# LeafScore
 Um sistema completo de scoreboard para servidores de Minecraft, com várias opções configuráveis. 
 
 ## Tutorial
